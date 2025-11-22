@@ -61,6 +61,49 @@
 
 ---
 
+## 🧪 Projects & Labs
+
+> More details in my repositories on GitHub.
+
+- 🔐 **Firewall Rule Configuration Lab**  
+ Designed and implemented firewall rules for Linux environments, focusing on segmentation, access control and logging as part of a university security course.
+
+- 📡 **Wi-Fi Network Design with Ekahau**  
+  Planned and analyzed a real-world **802.11 Wi-Fi** network (coverage, capacity, roaming) using **Ekahau AI Pro**, including heatmaps, AP placement and optimization.
+
+- 🛰️ **SOC Lab: Syslog + Elasticsearch + Kibana**  
+  Built a mini SOC pipeline: collected syslog events, parsed them with **Grok patterns**, normalized fields and visualized them in **Kibana** dashboards.
+
+- 🧱 **Astra Linux Privileges & PARSEC**  
+  Worked with **Linux capabilities** and **PARSEC** security levels to configure access control, user roles, and secure system administration in a hardened Russian OS.
+
+- 🖥️ **Windows Server & Virtualization Labs**  
+  Configured **Windows Server** roles, virtualization with **VirtualBox / VMware / Proxmox**, user accounts, basic services and small lab infrastructures.
+
+- 🎓 **Ethical Hacking Educational Module (in progress)**  
+  Preparing an **introductory Ethical Hacking module** for students with step-by-step labs on networking, Linux, basic pentesting tools and security mindset.
+
+---
+
+## 🏆 Competitions & Activities
+
+- 🕹️ **CTF & Cybersecurity contests** – participated in student CTFs and cybersecurity events, focusing on basic web, forensics, OSINT and networking tasks.  
+- 🧩 **Algorithmic & IT contests** – taking part in programming / IT competitions to strengthen problem-solving, teamwork and stress-resistance.  
+- 👨‍🏫 **Student community & mentoring** – active in helping international / Arabic-speaking students with adaptation, studies and technical topics.
+
+> I enjoy learning by doing: building labs, breaking things safely, then fixing and hardening them again.
+
+---
+
+## 📚 Currently Learning
+
+- 📘 Deepening **Linux & networking** (CCNA-level concepts).  
+- 🧨 Fundamentals of **penetration testing & bug bounty**.  
+- 📊 Improving workflows with **SOC tools (ELK stack)**.  
+- 🇷🇺 Improving **Russian technical language** for IT & security.
+
+---
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=KirolosKhairy&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>

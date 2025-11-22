@@ -1,11 +1,11 @@
 # 💫 About Me
 
 👋 Hi, I'm **Kirolos Khairy** — an Egyptian **Information Security Engineering** student based in Russia.  
-🎓 4th-year student at **Ural Federal University (УрФУ), ИРИТ-РТФ**.  
+🎓 4th-year student at **Ural Federal University (УрФУ)**.  
 🔐 Passionate about **Cybersecurity, Penetration Testing, SOC / Blue Team, Linux & Networks**.  
 🌍 Languages: Arabic (native), English, Russian.
 
-- 🚀 Currently focusing on: **Pentesting basics, SOC tools (ELK), Linux hardening, networking (CCNA level)**  
+- 🚀 Currently focusing on: **Pentesting basics, SOC tools , Linux hardening, networking (CCNA level)**  
 - 🧪 Enjoy working with: **Kali Linux, Astra Linux, Wireshark, Cisco devices, virtualization & lab environments**  
 - 🎯 Goal: Become a strong **practical cybersecurity engineer** able to build, break and defend systems.
 

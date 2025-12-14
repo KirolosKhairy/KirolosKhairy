@@ -1,208 +1,106 @@
 <!-- =======================
      Kirolos Khairy - Profile README
-     Theme: Cyber Blue/Purple (no green)
+     Professional Cyber Theme
      ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:4F46E5,100:22D3EE&height=190&section=header&text=Kirolos%20Khairy&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=InfoSec%20Student%20%7C%20Cybersecurity%20%7C%20SOC%20%7C%20Pentesting%20Basics&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A18,50:1E3A8A,100:312E81&height=190&section=header&text=Kirolos%20Khairy&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=InfoSec%20Student%20%7C%20Cybersecurity%20%7C%20SOC%20%7C%20Pentesting%20Foundations&descAlignY=60&descAlign=50" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=820&height=90&lines=Hi%2C+I'm+Kirolos+Khairy;Information+Security+Student+at+UrFU;Cybersecurity+%7C+SOC+Foundations+%7C+Pentesting+Basics;Linux+%26+Network+Security+%7C+CCNA-level+Networking;Learning+by+building+real+labs" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3200&pause=1000&color=93C5FD&center=true&vCenter=true&width=820&height=90&lines=Information+Security+Student+at+Ural+Federal+University;Cybersecurity+%7C+SOC+Foundations+%7C+Pentesting+Foundations;Linux+and+Network+Security+%7C+CCNA-level+Networking;Hands-on+learning+through+real+lab+environments" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KirolosKhairy&label=Profile%20views&color=4F46E5&style=flat" />
-  <img src="https://img.shields.io/github/followers/KirolosKhairy?label=Followers&style=flat&color=22D3EE" />
-  <img src="https://img.shields.io/github/stars/KirolosKhairy?label=Stars&style=flat&color=8B5CF6" />
+  <img src="https://komarev.com/ghpvc/?username=KirolosKhairy&label=Profile%20views&color=1E3A8A&style=flat" />
+  <img src="https://img.shields.io/github/followers/KirolosKhairy?label=Followers&style=flat&color=312E81" />
+  <img src="https://img.shields.io/github/stars/KirolosKhairy?label=Stars&style=flat&color=1E40AF" />
 </p>
 
 ---
 
-## 🔗 Links
+## 🔗 Professional Links
 
 <p align="center">
   <a href="https://kiroloskhairy.com/">
-    <img src="https://img.shields.io/badge/Website-kiroloskhairy.com-0B1020?style=for-the-badge&logo=google-chrome&logoColor=22D3EE"/>
+    <img src="https://img.shields.io/badge/Website-kiroloskhairy.com-black?style=for-the-badge&logo=google-chrome"/>
   </a>
   <a href="https://t.me/KirolosKhairy">
-    <img src="https://img.shields.io/badge/Telegram-@KirolosKhairy-0B1020?style=for-the-badge&logo=telegram&logoColor=22D3EE"/>
+    <img src="https://img.shields.io/badge/Telegram-@KirolosKhairy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/kirolos-khairy">
-    <img src="https://img.shields.io/badge/LinkedIn-kirolos--khairy-0B1020?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👋 About Me
+## 👤 Professional Summary
 
-👋 Hi, I'm **Kirolos Khairy** — an Egyptian **Information Security Engineering** student based in Russia.  
-🎓 4th-year student at **Ural Federal University (УрФУ)**.  
-🔐 Passionate about **Cybersecurity, Penetration Testing, SOC / Blue Team, Linux & Networks**.  
-🌍 Languages: Arabic (native), English, Russian.
+**Kirolos Khairy** is an Egyptian **Information Security Engineering** student currently based in Russia.
 
-- 🚀 Currently focusing on: **Pentesting basics, SOC tools, Linux hardening, networking (CCNA level)**
-- 🧪 Enjoy working with: **Kali Linux, Astra Linux, Wireshark, Cisco devices, virtualization & lab environments**
-- 🎯 Goal: Become a strong **practical cybersecurity engineer** able to build, break and defend systems.
+- 🎓 4th-year student at **Ural Federal University (УрФУ)**
+- 🔐 Academic and practical focus on **Cybersecurity Engineering**
+- 🛡️ Interests include **SOC operations, Linux security, networking, and penetration testing foundations**
+- 🌍 Languages: Arabic (native), English, Russian
 
-> I enjoy learning by doing: building labs, breaking things safely, then fixing and hardening them again.
+His approach to cybersecurity emphasizes **hands-on experimentation**, structured lab environments, and understanding systems from both **defensive and offensive perspectives**.
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Technical Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pentesting-Basics-0B1020?style=for-the-badge&logo=protonvpn&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/SOC-Foundations-0B1020?style=for-the-badge&logo=elastic&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/Linux-Hardening-0B1020?style=for-the-badge&logo=linux&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/Networking-CCNA_Level-0B1020?style=for-the-badge&logo=cisco&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Pentesting-Basics-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SOC-Foundations-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-Hardening-yellow?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Networking-CCNA_Level-informational?style=for-the-badge"/>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technical Stack
 
 ### 🔹 Programming & Scripting
-<p>
-  <img src="https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/Bash-0B1020?style=for-the-badge&logo=gnu-bash&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0B1020?style=for-the-badge&logo=postgresql&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/Regex-0B1020?style=for-the-badge&logo=regex&logoColor=22D3EE"/>
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Regex](https://img.shields.io/badge/regex-000000?style=for-the-badge&logo=regex&logoColor=white)
 
 ### 🔹 Operating Systems & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Linux-0B1020?style=for-the-badge&logo=linux&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-0B1020?style=for-the-badge&logo=kalilinux&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/Debian%2FUbuntu-0B1020?style=for-the-badge&logo=debian&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/Astra%20Linux-0B1020?style=for-the-badge&logo=linux&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/Windows%20Server-0B1020?style=for-the-badge&logo=windows&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/VirtualBox-0B1020?style=for-the-badge&logo=virtualbox&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/VMware-0B1020?style=for-the-badge&logo=vmware&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/Proxmox-0B1020?style=for-the-badge&logo=proxmox&logoColor=22D3EE"/>
-</p>
-
-### 🔹 Networking & Wi-Fi
-<p>
-  <img src="https://img.shields.io/badge/Cisco-0B1020?style=for-the-badge&logo=cisco&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/TCP%2FIP-0B1020?style=for-the-badge&logo=cloudflare&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/Wireshark-0B1020?style=for-the-badge&logo=wireshark&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/IEEE%20802.11-0B1020?style=for-the-badge&logo=ieee&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/Ekahau-0B1020?style=for-the-badge&logo=airplayaudio&logoColor=22D3EE"/>
-</p>
-
-### 🔹 Cybersecurity / Blue & Red Team Basics
-<p>
-  <img src="https://img.shields.io/badge/Information%20Security-0B1020?style=for-the-badge&logo=securityscorecard&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/ELK%20Stack-0B1020?style=for-the-badge&logo=elastic&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/Syslog-0B1020?style=for-the-badge&logo=datadog&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/Grok%20Parsing-0B1020?style=for-the-badge&logo=elasticstack&logoColor=22D3EE"/>
-</p>
-
-### 🔹 Dev Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-0B1020?style=for-the-badge&logo=git&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/GitLab-0B1020?style=for-the-badge&logo=gitlab&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/Markdown-0B1020?style=for-the-badge&logo=markdown&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/Docker-0B1020?style=for-the-badge&logo=docker&logoColor=22D3EE"/>
-</p>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Debian/Ubuntu](https://img.shields.io/badge/Debian/Ubuntu-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Astra Linux](https://img.shields.io/badge/Astra_Linux-%23000080.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=virtualbox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
 ---
 
-## 🧪 Projects & Labs
+## 🧠 Technical Visualization (3D / Cyber)
 
-> More details in my repositories on GitHub.
-
-- 🔐 **Firewall Rule Configuration Lab**  
-  Designed and implemented firewall rules for Linux environments, focusing on segmentation, access control and logging as part of a university security course.
-
-- 📡 **Wi-Fi Network Design with Ekahau**  
-  Planned and analyzed a real-world **802.11 Wi-Fi** network (coverage, capacity, roaming) using **Ekahau AI Pro**, including heatmaps, AP placement and optimization.
-
-- 🛰️ **SOC Lab: Syslog + Elasticsearch + Kibana**  
-  Built a mini SOC pipeline: collected syslog events, parsed them with **Grok patterns**, normalized fields and visualized them in **Kibana** dashboards.
-
-- 🧱 **Astra Linux Privileges & PARSEC**  
-  Worked with **Linux capabilities** and **PARSEC** security levels to configure access control, user roles, and secure system administration in a hardened Russian OS.
-
-- 🖥️ **Windows Server & Virtualization Labs**  
-  Configured **Windows Server** roles, virtualization with **VirtualBox / VMware / Proxmox**, user accounts, basic services and small lab infrastructures.
-
-- 🎓 **Ethical Hacking Educational Module (in progress)**  
-  Preparing an **introductory Ethical Hacking module** for students with step-by-step labs on networking, Linux, basic pentesting tools and security mindset.
-
----
-
-## 🏆 Competitions & Activities
-
-- 🕹️ **CTF & cybersecurity contests** – participated in student CTFs and cybersecurity events, focusing on basic web, forensics, OSINT and networking tasks.  
-- 🧩 **Algorithmic & IT contests** – taking part in programming / IT competitions to strengthen problem-solving, teamwork and stress-resistance.  
-- 👨‍🏫 **Student community & mentoring** – active in helping international / Arabic-speaking students with adaptation, studies and technical topics.
-
----
-
-## 📚 Currently Learning
-
-- 📘 Deepening **Linux & networking** (CCNA-level concepts).  
-- 🧨 Fundamentals of **penetration testing & bug bounty**.  
-- 📊 Improving workflows with **SOC tools (ELK stack)**.  
-- 🇷🇺 Improving **Russian technical language** for IT & security.
-
----
-
-## 🧠 Technical / "Hacker" 3D & Visual Tech
-
-<!-- 3D Skyline (GitHub official) -->
 <p align="center">
-  <a href="https://skyline.github.com/KirolosKhairy/2024" target="_blank">
-    <img src="https://img.shields.io/badge/View-GitHub%20Skyline%203D-0B1020?style=for-the-badge&logo=github&logoColor=22D3EE" />
+  <a href="https://skyline.github.com/KirolosKhairy/2024">
+    <img src="https://img.shields.io/badge/GitHub-Skyline_3D-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
-<!-- Neon-style contribution graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KirolosKhairy&bg_color=0B1020&color=22D3EE&line=8B5CF6&point=22D3EE&area=true&hide_border=true" />
-</p>
-
-<!-- Hacker-ish "snake" contribution animation (techy but clean) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KirolosKhairy&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KirolosKhairy&bg_color=050A18&color=93C5FD&line=6366F1&point=93C5FD&area=true&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KirolosKhairy&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirolosKhairy&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
-
----
-
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>Building secure systems starts with understanding how they fail.</i>
+  <i>Secure systems are built by understanding how they fail.</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:4F46E5,100:22D3EE&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A18,50:1E3A8A,100:312E81&height=120&section=footer"/>
 </p>

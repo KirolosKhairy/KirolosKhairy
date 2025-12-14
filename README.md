@@ -1,63 +1,111 @@
-# 💫 About Me
+<!-- =======================
+     Kirolos Khairy - Profile README
+     ======================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2D8F3A&height=180&section=header&text=Kirolos%20Khairy&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Information%20Security%20Engineering%20Student%20%7C%20Cybersecurity%20%7C%20SOC%20%7C%20Pentesting%20Basics&descAlignY=60&descAlign=50" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=2D8F3A&center=true&vCenter=true&width=760&height=90&lines=Hi%2C+I'm+Kirolos+Khairy;Information+Security+Engineering+Student+at+UrFU;Cybersecurity+%7C+SOC+Foundations+%7C+Pentesting+Basics;Linux+%26+Network+Security+%7C+CCNA-level+Networking;Learning+by+building+real+labs" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KirolosKhairy&label=Profile%20views&color=2D8F3A&style=flat" />
+  <img src="https://img.shields.io/github/followers/KirolosKhairy?label=Followers&style=flat&color=2D8F3A" />
+  <img src="https://img.shields.io/github/stars/KirolosKhairy?label=Stars&style=flat&color=2D8F3A" />
+</p>
+
+---
+
+## 👋 About Me
 
 👋 Hi, I'm **Kirolos Khairy** — an Egyptian **Information Security Engineering** student based in Russia.  
 🎓 4th-year student at **Ural Federal University (УрФУ)**.  
 🔐 Passionate about **Cybersecurity, Penetration Testing, SOC / Blue Team, Linux & Networks**.  
 🌍 Languages: Arabic (native), English, Russian.
 
-- 🚀 Currently focusing on: **Pentesting basics, SOC tools , Linux hardening, networking (CCNA level)**  
-- 🧪 Enjoy working with: **Kali Linux, Astra Linux, Wireshark, Cisco devices, virtualization & lab environments**  
+- 🚀 Currently focusing on: **Pentesting basics, SOC tools, Linux hardening, networking (CCNA level)**
+- 🧪 Enjoy working with: **Kali Linux, Astra Linux, Wireshark, Cisco devices, virtualization & lab environments**
 - 🎯 Goal: Become a strong **practical cybersecurity engineer** able to build, break and defend systems.
+
+> I enjoy learning by doing: building labs, breaking things safely, then fixing and hardening them again.
+
+---
+
+## 🎯 Current Focus (Badges)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pentesting-Basics-2D8F3A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOC-Foundations-2D8F3A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-Hardening-2D8F3A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Networking-CCNA_Level-2D8F3A?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kirolos-khairy)  
+<p align="center">
+  <a href="https://linkedin.com/in/kirolos-khairy">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### 🔹 Programming & Scripting
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Regex](https://img.shields.io/badge/regex-000000?style=for-the-badge&logo=regex&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/regex-000000?style=for-the-badge&logo=regex&logoColor=white"/>
+</p>
 
 ### 🔹 Operating Systems & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Debian/Ubuntu](https://img.shields.io/badge/Debian/Ubuntu-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Astra Linux](https://img.shields.io/badge/Astra_Linux-%23000080.svg?style=for-the-badge&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=virtualbox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Debian/Ubuntu-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Astra_Linux-%23000080.svg?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
+</p>
 
 ### 🔹 Networking & Wi-Fi
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-Networking-blue?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![802.11 Wi-Fi](https://img.shields.io/badge/IEEE_802.11-WiFi-green?style=for-the-badge)
-![Ekahau](https://img.shields.io/badge/Ekahau-WiFi_Design-orange?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TCP/IP-Networking-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IEEE_802.11-WiFi-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ekahau-WiFi_Design-orange?style=for-the-badge"/>
+</p>
 
 ### 🔹 Cybersecurity / Blue & Red Team Basics
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![InfoSec](https://img.shields.io/badge/Information_Security-%23000000.svg?style=for-the-badge&logo=security&logoColor=white)
-![SOC](https://img.shields.io/badge/SOC/DFIR-Elastic_Stack-red?style=for-the-badge)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-![Syslog](https://img.shields.io/badge/Syslog-Logging-grey?style=for-the-badge)
-![Grok](https://img.shields.io/badge/Grok-Parsing-lightgrey?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Information_Security-%23000000.svg?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SOC/DFIR-Elastic_Stack-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Syslog-Logging-grey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Grok-Parsing-lightgrey?style=for-the-badge"/>
+</p>
 
 ### 🔹 Dev Tools & Productivity
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
@@ -66,7 +114,7 @@
 > More details in my repositories on GitHub.
 
 - 🔐 **Firewall Rule Configuration Lab**  
- Designed and implemented firewall rules for Linux environments, focusing on segmentation, access control and logging as part of a university security course.
+  Designed and implemented firewall rules for Linux environments, focusing on segmentation, access control and logging as part of a university security course.
 
 - 📡 **Wi-Fi Network Design with Ekahau**  
   Planned and analyzed a real-world **802.11 Wi-Fi** network (coverage, capacity, roaming) using **Ekahau AI Pro**, including heatmaps, AP placement and optimization.
@@ -91,8 +139,6 @@
 - 🧩 **Algorithmic & IT contests** – taking part in programming / IT competitions to strengthen problem-solving, teamwork and stress-resistance.  
 - 👨‍🏫 **Student community & mentoring** – active in helping international / Arabic-speaking students with adaptation, studies and technical topics.
 
-> I enjoy learning by doing: building labs, breaking things safely, then fixing and hardening them again.
-
 ---
 
 ## 📚 Currently Learning
@@ -106,18 +152,32 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=KirolosKhairy&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KirolosKhairy&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KirolosKhairy&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KirolosKhairy&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KirolosKhairy&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirolosKhairy&theme=github_dark&hide_border=true&layout=compact" />
+</p>
 
 ---
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=KirolosKhairy&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <i>Building secure systems starts with understanding how they fail.</i>
+</p>
 
-<!-- README structure edited by ChatGPT, originally generated with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2D8F3A&height=120&section=footer" width="100%"/>
+</p>

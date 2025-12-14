@@ -15,6 +15,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3200&pause=1000&color=9CA3AF&center=true&vCenter=true&width=920&height=95&lines=Information+Security+Student+%E2%80%94+Ural+Federal+University+(UrFU);Hands-on+Cybersecurity:+SOC+Foundations+%7C+Linux+Security+%7C+Networking;Pentesting+Basics+%7C+Lab+Environments+%7C+Practical+Learning+Mindset;Building+labs+%E2%86%92+testing+safely+%E2%86%92+hardening+systems" />
 </p>
 
+<!-- Snake (needs workflow to update; still safe to keep here) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+</p>
+
+
+
 <!-- Quick metrics -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KirolosKhairy&label=Profile%20views&color=1E293B&style=flat" />
@@ -173,7 +180,6 @@
 
 ---
 
-## 🧠 3D / Technical Visuals (Professional Cyber Look)
 
 <!-- GitHub Skyline 3D -->
 <p align="center">
@@ -185,11 +191,6 @@
 <!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KirolosKhairy&bg_color=050A18&color=94A3B8&line=6366F1&point=94A3B8&area=true&hide_border=true" />
-</p>
-
-<!-- Snake (needs workflow to update; still safe to keep here) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---

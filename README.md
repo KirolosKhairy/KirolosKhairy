@@ -1,5 +1,5 @@
 <!-- =========================================================
-     Kirolos Khairy — GitHub Profile README (Final Full Version)
+     Kirolos Khairy — GitHub Profile README 
      Style: Dark / Professional (no green theme)
      Notes:
      - Skills badges keep their original colors (as requested)
@@ -8,12 +8,12 @@
 
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A18,50:0B1F3A,100:312E81&height=210&section=header&text=Kirolos%20Khairy&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Information%20Security%20Engineering%20Student%20%7C%20Cybersecurity%20%7C%20SOC%20%7C%20Pentesting%20Foundations&descAlignY=62&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A18,50:0B1F3A,100:312E81&height=210&section=header&text=Kirolos%20Khairy&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=InfoSec%20Student%20%7C%20Cybersecurity%20%7C%20SOC%20%7C%20Pentesting%20Foundations&descAlignY=62&descAlign=50" width="100%"/>
 </p>
 
 <!-- Typing line -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3200&pause=1000&color=9CA3AF&center=true&vCenter=true&width=920&height=95&lines=Information+Security+Engineering+Student+%E2%80%94+Ural+Federal+University+(UrFU);Hands-on+Cybersecurity:+SOC+Foundations+%7C+Linux+Security+%7C+Networking;Pentesting+Basics+%7C+Lab+Environments+%7C+Practical+Learning+Mindset;Building+labs+%E2%86%92+testing+safely+%E2%86%92+hardening+systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3200&pause=1000&color=9CA3AF&center=true&vCenter=true&width=920&height=95&lines=Information+Security+Student+%E2%80%94+Ural+Federal+University+(UrFU);Hands-on+Cybersecurity:+SOC+Foundations+%7C+Linux+Security+%7C+Networking;Pentesting+Basics+%7C+Lab+Environments+%7C+Practical+Learning+Mindset;Building+labs+%E2%86%92+testing+safely+%E2%86%92+hardening+systems" />
 </p>
 
 <!-- Quick metrics -->

@@ -1,30 +1,41 @@
-<!-- =======================
-     Kirolos Khairy - GitHub Profile README
-     ======================= -->
+<!-- =========================================================
+     Kirolos Khairy — GitHub Profile README (Final Full Version)
+     Style: Dark / Professional (no green theme)
+     Notes:
+     - Skills badges keep their original colors (as requested)
+     - Content is expanded (not shortened) while keeping your info
+========================================================== -->
 
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:0B1F3A,100:1E293B&height=190&section=header&text=Kirolos%20Khairy&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Information%20Security%20Engineering%20Student%20%7C%20Cybersecurity%20%7C%20SOC%20%7C%20Pentesting%20Foundations&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A18,50:0B1F3A,100:312E81&height=210&section=header&text=Kirolos%20Khairy&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Information%20Security%20Engineering%20Student%20%7C%20Cybersecurity%20%7C%20SOC%20%7C%20Pentesting%20Foundations&descAlignY=62&descAlign=50" width="100%"/>
 </p>
 
+<!-- Typing line -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3200&pause=1000&color=9CA3AF&center=true&vCenter=true&width=820&height=90&lines=Information+Security+Engineering+Student+at+Ural+Federal+University;Cybersecurity+%7C+SOC+Foundations+%7C+Pentesting+Foundations;Linux+and+Network+Security+%7C+CCNA-level+Networking;Hands-on+learning+through+real+lab+environments" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3200&pause=1000&color=9CA3AF&center=true&vCenter=true&width=920&height=95&lines=Information+Security+Engineering+Student+%E2%80%94+Ural+Federal+University+(UrFU);Hands-on+Cybersecurity:+SOC+Foundations+%7C+Linux+Security+%7C+Networking;Pentesting+Basics+%7C+Lab+Environments+%7C+Practical+Learning+Mindset;Building+labs+%E2%86%92+testing+safely+%E2%86%92+hardening+systems" />
 </p>
 
+<!-- Quick metrics -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KirolosKhairy&label=Profile%20views&color=1E293B&style=flat" />
   <img src="https://img.shields.io/github/followers/KirolosKhairy?label=Followers&style=flat&color=334155" />
   <img src="https://img.shields.io/github/stars/KirolosKhairy?label=Stars&style=flat&color=475569" />
 </p>
 
+---
+
+## 🔗 Links (Website • Telegram • LinkedIn)
+
 <p align="center">
   <a href="https://kiroloskhairy.com/">
-    <img src="https://img.shields.io/badge/Website-kiroloskhairy.com-black?style=for-the-badge&logo=google-chrome"/>
+    <img src="https://img.shields.io/badge/Website-kiroloskhairy.com-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://t.me/KirolosKhairy">
     <img src="https://img.shields.io/badge/Telegram-@KirolosKhairy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/kirolos-khairy">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-kirolos--khairy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -32,20 +43,36 @@
 
 # 💫 About Me
 
-👋 **Kirolos Khairy** — Egyptian **Information Security Engineering** student based in Russia.  
+👋 **Kirolos Khairy** — an Egyptian **Information Security Engineering** student based in Russia.  
 🎓 4th-year student at **Ural Federal University (УрФУ)**.  
-🔐 Passionate about **Cybersecurity, Penetration Testing, SOC / Blue Team, Linux & Networks**.  
+🔐 Focus areas: **Cybersecurity, Penetration Testing (foundations), SOC / Blue Team, Linux & Networks**.  
 🌍 Languages: Arabic (native), English, Russian.
 
-- 🚀 Currently focusing on: **Pentesting basics, SOC tools, Linux hardening, networking (CCNA level)**  
-- 🧪 Enjoy working with: **Kali Linux, Astra Linux, Wireshark, Cisco devices, virtualization & lab environments**  
+- 🚀 Currently focusing on: **Pentesting basics, SOC tools, Linux hardening, networking (CCNA level)**
+- 🧪 Enjoy working with: **Kali Linux, Astra Linux, Wireshark, Cisco devices, virtualization & lab environments**
 - 🎯 Goal: Become a strong **practical cybersecurity engineer** able to build, break and defend systems.
+
+> Learning style: build realistic labs, test safely, document findings, then harden and improve the environment.
+
+---
+
+## ✅ At a Glance
+
+| Category | Details |
+|---|---|
+| University | Ural Federal University (УрФУ) |
+| Track | Information Security Engineering |
+| Interests | SOC Foundations, Linux Security, Networking, Pentesting Basics |
+| Strengths | Hands-on labs, practical documentation, continuous learning |
+| Availability | Open to internships, lab collaborations, student research |
 
 ---
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kirolos-khairy)
+- LinkedIn: https://linkedin.com/in/kirolos-khairy  
+- Website: https://kiroloskhairy.com/  
+- Telegram: https://t.me/KirolosKhairy  
 
 ---
 
@@ -75,12 +102,21 @@
 ![Ekahau](https://img.shields.io/badge/Ekahau-WiFi_Design-orange?style=for-the-badge)
 
 ### 🔹 Cybersecurity / Blue & Red Team Basics
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![InfoSec](https://img.shields.io/badge/Information_Security-%23000000.svg?style=for-the-badge&logo=security&logoColor=white)
 ![SOC](https://img.shields.io/badge/SOC/DFIR-Elastic_Stack-red?style=for-the-badge)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 ![Syslog](https://img.shields.io/badge/Syslog-Logging-grey?style=for-the-badge)
 ![Grok](https://img.shields.io/badge/Grok-Parsing-lightgrey?style=for-the-badge)
+
+### 🔹 Dev Tools & Productivity
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -89,7 +125,7 @@
 > More details in my repositories on GitHub.
 
 - 🔐 **Firewall Rule Configuration Lab**  
- Designed and implemented firewall rules for Linux environments, focusing on segmentation, access control and logging as part of a university security course.
+  Designed and implemented firewall rules for Linux environments, focusing on segmentation, access control and logging as part of a university security course.
 
 - 📡 **Wi-Fi Network Design with Ekahau**  
   Planned and analyzed a real-world **802.11 Wi-Fi** network (coverage, capacity, roaming) using **Ekahau AI Pro**, including heatmaps, AP placement and optimization.
@@ -108,13 +144,33 @@
 
 ---
 
+## ⭐ Featured (Pinned-style Cards)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KirolosKhairy&repo=KirolosKhairy&theme=tokyonight&hide_border=true" />
+</p>
+
+> Tip: replace `repo=KirolosKhairy` above with your best repos (Firewall / SOC / Wi-Fi / Astra) to showcase them as “featured”.
+
+---
+
+## 🧭 Practical Workflow (How the labs are done)
+
+- **Plan**: define target goal (SOC pipeline, Wi-Fi capacity, Linux hardening, firewall policy)
+- **Build**: create isolated lab (VMs, snapshots, separate networks)
+- **Test safely**: collect logs / simulate events / validate configurations
+- **Document**: write steps, configs, evidence, screenshots
+- **Improve**: harden, refine, repeat
+
+---
+
 ## 🏆 Competitions & Activities
 
 - 🕹️ **CTF & Cybersecurity contests** – participated in student CTFs and cybersecurity events, focusing on basic web, forensics, OSINT and networking tasks.  
 - 🧩 **Algorithmic & IT contests** – taking part in programming / IT competitions to strengthen problem-solving, teamwork and stress-resistance.  
 - 👨‍🏫 **Student community & mentoring** – active in helping international / Arabic-speaking students with adaptation, studies and technical topics.
 
-> I enjoy learning by doing: building labs, breaking things safely, then fixing and hardening them again.
+> Learning by doing: build labs, break things safely, then harden and improve them again.
 
 ---
 
@@ -127,35 +183,48 @@
 
 ---
 
-## 🧠 3D / Technical Visualization
+## 🧠 3D / Technical Visuals (Professional Cyber Look)
 
+<!-- GitHub Skyline 3D -->
 <p align="center">
-  <a href="https://skyline.github.com/KirolosKhairy/2024">
-    <img src="https://img.shields.io/badge/GitHub-Skyline_3D-black?style=for-the-badge&logo=github"/>
+  <a href="https://skyline.github.com/KirolosKhairy/2024" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Skyline_3D-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KirolosKhairy&bg_color=030712&color=9CA3AF&line=64748B&point=9CA3AF&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KirolosKhairy&bg_color=050A18&color=94A3B8&line=6366F1&point=94A3B8&area=true&hide_border=true" />
 </p>
 
+<!-- Snake (needs workflow to update; still safe to keep here) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=KirolosKhairy&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KirolosKhairy&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KirolosKhairy&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KirolosKhairy&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=false&count_private=false" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=KirolosKhairy&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirolosKhairy&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
 
 ---
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
@@ -166,5 +235,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:0B1F3A,100:1E293B&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A18,50:0B1F3A,100:312E81&height=120&section=footer" width="100%"/>
 </p>
+
+<!-- README structure edited by ChatGPT, originally generated with GPRM ( https://gprm.itsvg.in ) -->

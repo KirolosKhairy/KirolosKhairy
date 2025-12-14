@@ -3,7 +3,6 @@
      Style: Dark / Professional (no green theme)
      Notes:
      - Skills badges keep their original colors (as requested)
-     - Content is expanded (not shortened) while keeping your info
 ========================================================== -->
 
 <!-- Header -->
@@ -25,7 +24,6 @@
 
 ---
 
-## 🔗 Links (Website • Telegram • LinkedIn)
 
 <p align="center">
   <a href="https://kiroloskhairy.com/">
@@ -43,8 +41,8 @@
 
 # 💫 About Me
 
-👋 **Kirolos Khairy** — an Egyptian **Information Security Engineering** student based in Russia.  
-🎓 4th-year student at **Ural Federal University (УрФУ)**.  
+👋 **Kirolos Khairy** — an Egyptian **Information Security student** based in Russia.  
+🎓 4th-year student at **Ural Federal University**.  
 🔐 Focus areas: **Cybersecurity, Penetration Testing (foundations), SOC / Blue Team, Linux & Networks**.  
 🌍 Languages: Arabic (native), English, Russian.
 
@@ -61,18 +59,10 @@
 | Category | Details |
 |---|---|
 | University | Ural Federal University (УрФУ) |
-| Track | Information Security Engineering |
+| Track | Information Security |
 | Interests | SOC Foundations, Linux Security, Networking, Pentesting Basics |
 | Strengths | Hands-on labs, practical documentation, continuous learning |
 | Availability | Open to internships, lab collaborations, student research |
-
----
-
-## 🌐 Socials
-
-- LinkedIn: https://linkedin.com/in/kirolos-khairy  
-- Website: https://kiroloskhairy.com/  
-- Telegram: https://t.me/KirolosKhairy  
 
 ---
 

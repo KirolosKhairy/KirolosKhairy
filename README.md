@@ -4,12 +4,12 @@
      ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:4F46E5,100:22D3EE&height=190&section=header&text=Kirolos%20Khairy&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Information%20Security%20Engineering%20Student%20%7C%20Cybersecurity%20%7C%20SOC%20%7C%20Pentesting%20Basics&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:4F46E5,100:22D3EE&height=190&section=header&text=Kirolos%20Khairy&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=InfoSec%20Student%20%7C%20Cybersecurity%20%7C%20SOC%20%7C%20Pentesting%20Basics&descAlignY=60&descAlign=50" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=820&height=90&lines=Hi%2C+I'm+Kirolos+Khairy;Information+Security+Engineering+Student+at+UrFU;Cybersecurity+%7C+SOC+Foundations+%7C+Pentesting+Basics;Linux+%26+Network+Security+%7C+CCNA-level+Networking;Learning+by+building+real+labs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=820&height=90&lines=Hi%2C+I'm+Kirolos+Khairy;Information+Security+Student+at+UrFU;Cybersecurity+%7C+SOC+Foundations+%7C+Pentesting+Basics;Linux+%26+Network+Security+%7C+CCNA-level+Networking;Learning+by+building+real+labs" alt="Typing SVG" />
   </a>
 </p>
 

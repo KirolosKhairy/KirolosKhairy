@@ -8,7 +8,7 @@
 
 <!-- Typing line (OLD STYLE) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3200&pause=1000&color=9CA3AF&center=true&vCenter=true&width=920&height=95&lines=Information+Security+Student+%E2%80%94+Ural+Federal+University+(UrFU);Hands-on+Cybersecurity:+SOC+Foundations+%7C+Linux+Security+%7C+Networking;Pentesting+Basics+%7C+Lab+Environments+%7C+Practical+Learning+Mindset;Building+labs+%E2%86%92+testing+safely+%E2%86%92+hardening+systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3200&pause=1000&color=9CA3AF&center=true&vCenter=true&width=920&height=95&lines=Information+Security+Student+—+Ural+Federal+University+(UrFU);Entry-Level+SOC:+Log+Analysis+%7C+SIEM+(Wazuh,+ELK)+%7C+IDS%2FIPS;Hands-on+Labs+%7C+Projects+%7C+CTF+Experience" />
 </p>
 
 

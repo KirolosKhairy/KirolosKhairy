@@ -74,15 +74,14 @@ Focused on **Entry-Level SOC / Blue Team**: log analysis, SIEM basics, incident 
 
 ---
 
-## 🚀 Featured (replace with your best repos)
+## 🚀 Featured
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KirolosKhairy&repo=REPO_1&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KirolosKhairy&repo=REPO_2&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KirolosKhairy&repo=Ekahau-Wifi-Network-Design&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KirolosKhairy&repo=CVE-2023-27372&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KirolosKhairy&repo=REPO_3&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KirolosKhairy&repo=REPO_4&theme=tokyonight&hide_border=true" />
-</p>
+
+
 
 
 ---

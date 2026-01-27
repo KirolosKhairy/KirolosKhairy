@@ -3,13 +3,16 @@
      Theme: Dark / Minimal / ATS-like clarity
 ========================================================== -->
 
+<!-- Header (OLD STYLE) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A18,50:0B1F3A,100:312E81&height=220&section=header&text=Kirolos%20Khairy&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Entry-Level%20SOC%20Analyst%20%7C%20Wazuh%20%7C%20ELK%20%7C%20IDS%2FIPS%20%7C%20Linux%20%7C%20Wi-Fi%20(Ekahau)&descAlignY=62&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A18,50:0B1F3A,100:312E81&height=210&section=header&text=Kirolos%20Khairy&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=InfoSec%20Student%20%7C%20Cybersecurity%20%7C%20SOC%20%7C%20Pentesting%20Foundations&descAlignY=62&descAlign=50" width="100%"/>
 </p>
 
+<!-- Typing line (OLD STYLE) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=9CA3AF&center=true&vCenter=true&width=940&height=90&lines=Information+Security+Student+—+UrFU;Entry-Level+SOC:+Log+Analysis+%7C+SIEM+(Wazuh,+ELK)+%7C+IDS%2FIPS;Hands-on+Labs+%7C+Projects+%7C+CTF+Experience" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3200&pause=1000&color=9CA3AF&center=true&vCenter=true&width=920&height=95&lines=Information+Security+Student+%E2%80%94+Ural+Federal+University+(UrFU);Hands-on+Cybersecurity:+SOC+Foundations+%7C+Linux+Security+%7C+Networking;Pentesting+Basics+%7C+Lab+Environments+%7C+Practical+Learning+Mindset;Building+labs+%E2%86%92+testing+safely+%E2%86%92+hardening+systems" />
 </p>
+
 
 <p align="center">
   <a href="https://kiroloskhairy.com/">

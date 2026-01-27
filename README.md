@@ -50,47 +50,46 @@ Focused on **Entry-Level SOC / Blue Team**: log analysis, SIEM basics, incident 
 
 ---
 
-## 🧩 Tech Stack
-
-### SOC / SIEM & Observability
+## 🛠️ Tech Stack (Badges)
+### SIEM / Logging
 <p align="left">
-  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-SIEM-111827?style=for-the-badge&logo=wazuh&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elastic-Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Logstash-Parsing-005571?style=for-the-badge&logo=logstash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kibana-Dashboards-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
 </p>
 
-### Network Security
+### Network Security / Traffic
 <p align="left">
-  <img src="https://img.shields.io/badge/IDS%2FIPS-111827?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDS%2FIPS-Network%20Security-111827?style=for-the-badge&logo=fortinet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-Traffic%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TCP%2FIP-Networking-1F2937?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
-### OS / Administration
+### OS / Admin
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows,kali,ubuntu,debian&theme=dark" />
-  <img src="https://img.shields.io/badge/Astra%20Linux-111827?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Континент%204-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-Labs-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-Security-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
 </p>
 
-### Automation / Development
+### Tools / Projects
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,bash,git,github,docker,nginx,postgres&theme=dark" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nessus-Vulnerability%20Scanning-1F2937?style=for-the-badge&logo=tenable&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Honeypot-Cowrie-111827?style=for-the-badge&logo=hackaday&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Scripting-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Django-Basics-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cyber%20Backup-Backup%2FDR-1F2937?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
-### Security Tools (Labs)
+### Wi-Fi (Ekahau)
 <p align="left">
-  <img src="https://img.shields.io/badge/Nessus-111827?style=for-the-badge&logo=tenable&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cowrie-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BloodHound-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Atomic%20Red%20Team-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cyber%20Backup-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ekahau%20AI%20Pro-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ekahau-AI%20Pro-1F2937?style=for-the-badge&logo=wireless&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IEEE%20802.11-Wi--Fi-1F2937?style=for-the-badge&logo=wifi&logoColor=white"/>
 </p>
+
 
 
 

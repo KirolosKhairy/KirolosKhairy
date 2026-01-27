@@ -84,11 +84,10 @@ Focused on **Entry-Level SOC / Blue Team**: log analysis, SIEM basics, incident 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=KirolosKhairy&repo=REPO_4&theme=tokyonight&hide_border=true" />
 </p>
 
-> ✅ Tip: بدل REPO_1..REPO_4 بأفضل مشاريع (SOC/ELK، Wazuh، Honeypot، Ekahau، Hardening)
 
 ---
 
-## 🧪 Projects & Labs (high level)
+## 🧪 Projects & Labs 
 - **SOC / SIEM labs:** event search, basic parsing/normalization, dashboards (Wazuh, ELK)  
 - **Honeypot labs:** safe traffic collection & log review (Cowrie + small Python/Flask components)  
 - **Wi-Fi design & survey:** planning + Site Survey with **Ekahau AI Pro** (coverage/capacity)  

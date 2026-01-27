@@ -33,7 +33,7 @@
 ---
 
 ## 👋 About
-I’m **Elia Kirolos**, an Egyptian **Information Security student** at **Ural Federal University (UrFU)**.  
+I’m **Kirolos**, an Egyptian **Information Security student** at **Ural Federal University (UrFU)**.  
 Focused on **Entry-Level SOC / Blue Team**: log analysis, SIEM basics, incident triage, and secure system administration.
 
 **Languages:** Arabic (native) • Russian (B2) • English (B1)
@@ -51,15 +51,27 @@ Focused on **Entry-Level SOC / Blue Team**: log analysis, SIEM basics, incident 
 ---
 
 ## 🧩 Tech Stack (Logos)
-> Clean icons line (fast to read)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,python,django,bash,docker,git,github,postgres,elasticsearch,kibana,grafana&theme=dark" />
+### SOC / SIEM
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=elasticsearch,kibana,grafana&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ubuntu,debian,kali,nginx,vim,md&theme=dark" />
+### Scripting / Automation
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,bash&theme=dark" />
 </p>
+
+### OS / Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,windows,kali,ubuntu,debian&theme=dark" />
+</p>
+
+### DevOps / Tooling
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,postgres&theme=dark" />
+</p>
+
 
 ---
 

@@ -4,9 +4,7 @@
 ========================================================== -->
 
 <!-- Header (OLD STYLE) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A18,50:0B1F3A,100:312E81&height=210&section=header&text=Kirolos%20Khairy&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=InfoSec%20Student%20%7C%20Cybersecurity%20%7C%20SOC%20%7C%20Pentesting%20Foundations&descAlignY=62&descAlign=50" width="100%"/>
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A18,50:0B1F3A,100:312E81&height=210&section=header&text=Kirolos%20Khairy&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=InfoSec%20Student%20%7C%20Cybersecurity%20%7C%20SOC%20%7C%20Pentesting%20Foundations&descAlignY=62&descAlign=50" width="100%"/> </p>
 
 <!-- Typing line (OLD STYLE) -->
 <p align="center">

@@ -32,7 +32,7 @@
 ---
 
 ## 👋 About
-I’m **Элия Киролос** (Kirolos Khairy), an Egyptian **Information Security student** at **Ural Federal University (UrFU)**.  
+I’m **Elia Kirolos**, an Egyptian **Information Security student** at **Ural Federal University (UrFU)**.  
 Focused on **Entry-Level SOC / Blue Team**: log analysis, SIEM basics, incident triage, and secure system administration.
 
 **Languages:** Arabic (native) • Russian (B2) • English (B1)

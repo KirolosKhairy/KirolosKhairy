@@ -160,9 +160,7 @@ Focused on **Entry-Level SOC / Blue Team**: log analysis, SIEM basics, incident 
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-</p>
+
 
 <p align="center">
   <i>Build labs. Observe logs. Detect patterns. Improve defenses.</i>

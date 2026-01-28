@@ -10,7 +10,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3200&pause=1000&color=9CA3AF&center=true&vCenter=true&width=920&height=95&lines=Information+Security+Student+—+Ural+Federal+University+(UrFU);Entry-Level+SOC:+Log+Analysis+%7C+SIEM+(Wazuh,+ELK)+%7C+IDS%2FIPS;Hands-on+Labs+%7C+Projects+%7C+CTF+Experience" />
 </p>
+<!-- игрушка -->
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+</p>
 
 <p align="center">
   <a href="https://kiroloskhairy.com/">

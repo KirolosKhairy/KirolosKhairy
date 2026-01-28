@@ -168,3 +168,7 @@ Focused on **Entry-Level SOC / Blue Team**: log analysis, SIEM basics, incident 
   <i>Build labs. Observe logs. Detect patterns. Improve defenses.</i>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A18,50:0B1F3A,100:312E81&height=120&section=footer" width="100%"/>
+</p>
+

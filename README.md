@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-kirolos--khairy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kiroloskhairy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kiroloskhairy2019%40gmail.com-334155?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-kiroloskhairy%40gmail.com-334155?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 

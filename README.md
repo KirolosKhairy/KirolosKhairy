@@ -379,17 +379,13 @@ My practical learning path covers:
   />
 </p>
 
+## 📊 GitHub Activity
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=KirolosKhairy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="170"
-    alt="GitHub Statistics"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirolosKhairy&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Top Languages"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=KirolosKhairy&bg_color=020617&color=94A3B8&line=6366F1&point=E2E8F0&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    width="95%"
+    alt="GitHub Contribution Activity"
   />
 </p>
 

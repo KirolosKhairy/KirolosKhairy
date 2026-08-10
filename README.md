@@ -368,18 +368,7 @@ My practical learning path covers:
 </p>
 
 ---
-
 # 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KirolosKhairy&bg_color=020617&color=94A3B8&line=6366F1&point=E2E8F0&area=true&hide_border=true"
-    width="95%"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
-## 📊 GitHub Activity
 
 <p align="center">
   <img
@@ -391,20 +380,62 @@ My practical learning path covers:
 
 ---
 
+# 📂 Featured Repositories
+
+<p align="center">
+
+<a href="YOUR_TRACE_REPOSITORY">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=KirolosKhairy&repo=YOUR_TRACE_REPOSITORY&theme=tokyonight&hide_border=true"
+    alt="TRACE DFIR Project"
+  />
+</a>
+
+<a href="https://github.com/KirolosKhairy/Ekahau-Wifi-Network-Design">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=KirolosKhairy&repo=Ekahau-Wifi-Network-Design&theme=tokyonight&hide_border=true"
+    alt="Ekahau Wi-Fi Network Design"
+  />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/KirolosKhairy/CVE-2023-27372">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=KirolosKhairy&repo=CVE-2023-27372&theme=tokyonight&hide_border=true"
+    alt="CVE-2023-27372"
+  />
+</a>
+
+</p>
+
+---
+
 # 📫 Contact
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/kirolos-khairy/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="https://kiroloskhairy.com/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-334155?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Portfolio-Visit-334155?style=for-the-badge&logo=google-chrome&logoColor=white"
+    alt="Portfolio"
+  />
 </a>
 
 <a href="mailto:kiroloskhairy@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-475569?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Email-Contact-475569?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
 </p>

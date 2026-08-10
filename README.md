@@ -44,18 +44,12 @@
 # 👋 About Me
 
 > **Information Security Graduate** from **Ural Federal University (UrFU)**  
-> Focused on **Entry-Level SOC / Blue Team** and incident investigation.
+> Focused on **Junior SOC / Blue Team** and **DFIR**.
 
-I’m interested in security monitoring, event and log analysis, incident triage,
-DFIR, threat analysis and practical security engineering.
+Interested in security monitoring, event and log analysis, incident triage,
+threat analysis, and incident investigation.
 
-### Languages
-
-| Language | Level |
-|----------|-------|
-| 🇪🇬 Arabic | Native |
-| 🇷🇺 Russian | B2 |
-| 🇬🇧 English | B1 |
+**Languages:** 🇪🇬 Arabic (Native) · 🇷🇺 Russian (B2) · 🇬🇧 English (B1)
 
 ---
 
@@ -380,38 +374,6 @@ My practical learning path covers:
 
 ---
 
-# 📂 Featured Repositories
-
-<p align="center">
-
-<a href="YOUR_TRACE_REPOSITORY">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=KirolosKhairy&repo=YOUR_TRACE_REPOSITORY&theme=tokyonight&hide_border=true"
-    alt="TRACE DFIR Project"
-  />
-</a>
-
-<a href="https://github.com/KirolosKhairy/Ekahau-Wifi-Network-Design">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=KirolosKhairy&repo=Ekahau-Wifi-Network-Design&theme=tokyonight&hide_border=true"
-    alt="Ekahau Wi-Fi Network Design"
-  />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/KirolosKhairy/CVE-2023-27372">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=KirolosKhairy&repo=CVE-2023-27372&theme=tokyonight&hide_border=true"
-    alt="CVE-2023-27372"
-  />
-</a>
-
-</p>
-
----
 
 # 📫 Contact
 
